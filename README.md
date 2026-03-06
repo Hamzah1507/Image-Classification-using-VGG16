@@ -185,15 +185,6 @@ Best Epoch      : 18/20
 Val Accuracy    : 86.27%
 Train Accuracy  : 92.20%
 ```
-
----
-
-## 👨‍💻 Author
-
-**Mohammed Hamzah Saiyed**
-- GitHub: [@Hamzah1507](https://github.com/Hamzah1507)
-- Email: hamzah.2004saiyed@gmail.com
-
 ---
 
 ## 📄 License
@@ -201,5 +192,3 @@ Train Accuracy  : 92.20%
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
-
-> 🎓 GLS University Capstone Project 2025–26
