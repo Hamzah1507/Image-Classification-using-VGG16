@@ -1,6 +1,6 @@
 # 🌸 VisionAI — Image Classification using VGG16
 
-> VGG16 Transfer Learning — 7-class image classifier (flowers + gender detection) with FastAPI backend & React UI. **86% accuracy** trained on Google Colab T4 GPU.
+> VGG16 Transfer Learning — 7-class image classifier (flowers + gender detection) with FastAPI backend & React UI. **86% accuracy** trained on T4 GPU
 
 ---
 
